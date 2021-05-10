@@ -36,4 +36,4 @@ let merge = (arr1, arr2) => {
 console.log(mergesort([2, 4, 63, 2, 4, 2, 5, 8, 2, 7]))
 
 
-//here time complexcity will be O(nlogn) space complexcity O(n)
+//here time complexcity will be O(nlogn) space complexcity O(n) ...    logn comes while we split the whole array into smaller array and n comes when we copare 2 array to merge them and space complexcity is O(n)
