@@ -21,4 +21,7 @@ let pivot = (arr, start = 0, end = arr.length - 1)=>{
     return swapIndex
 }
 
-console.log(quicksort([4,5,6,3,1,2,7]),'rs');
+console.log(quicksort([4, 5, 6, 3, 1, 2, 7]), 'rs');
+
+
+// here time complexcity is O(nlogn)
